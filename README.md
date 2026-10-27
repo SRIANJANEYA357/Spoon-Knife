@@ -8,3 +8,4 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 Experiment 14: Practicing the GitHub Fork and Pull Request Workflow.
+Git Bash: Updated README locally to practice Git collaboration.
